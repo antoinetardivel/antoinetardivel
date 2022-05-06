@@ -3,5 +3,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=antoinetardivel&label=Profile%20views&color=0e75b6&style=flat" alt="antoinetardivel" />
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=56165175)
